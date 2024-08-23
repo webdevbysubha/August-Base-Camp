@@ -1,6 +1,4 @@
-# Monitoring Multiple Projects with Cloud Monitoring || [GSP090](https://www.cloudskillsboost.google/focuses/621?parent=catalog) ||
-
-## Solution [here](https://youtu.be/NLQ0j9y2ZaU)
+# Monitoring Multiple Projects with Cloud Monitoring
 
 ### Run the following Commands in CloudShell
 ```
@@ -30,12 +28,4 @@ sudo chmod +x gsp090-2.sh
 ./gsp090-2.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
-
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
-
-#### *Well done!*
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+### Congratulations 🌟❤️ for completing the Lab !
